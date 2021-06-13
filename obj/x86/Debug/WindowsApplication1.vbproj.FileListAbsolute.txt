@@ -1,0 +1,11 @@
+H:\Sutech\Compiler\Comp\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\Sutech\Compiler\Comp\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\Sutech\Compiler\Comp\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\Sutech\Compiler\Comp\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
